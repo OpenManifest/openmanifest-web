@@ -2,12 +2,12 @@
   "files": {
     "static/js/0.eb8ab617.chunk.js": "/static/js/0.eb8ab617.chunk.js",
     "static/js/0.eb8ab617.chunk.js.map": "/static/js/0.eb8ab617.chunk.js.map",
-    "app.js": "/static/js/app.245e7844.chunk.js",
-    "app.js.map": "/static/js/app.245e7844.chunk.js.map",
+    "app.js": "/static/js/app.95b5b343.chunk.js",
+    "app.js.map": "/static/js/app.95b5b343.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.7f7c3de9.js",
     "runtime~app.js.map": "/static/js/runtime~app.7f7c3de9.js.map",
-    "static/js/3.e6f50bc5.chunk.js": "/static/js/3.e6f50bc5.chunk.js",
-    "static/js/3.e6f50bc5.chunk.js.map": "/static/js/3.e6f50bc5.chunk.js.map",
+    "static/js/3.02616ef6.chunk.js": "/static/js/3.02616ef6.chunk.js",
+    "static/js/3.02616ef6.chunk.js.map": "/static/js/3.02616ef6.chunk.js.map",
     "static/js/4.b44c80c4.chunk.js": "/static/js/4.b44c80c4.chunk.js",
     "static/js/4.b44c80c4.chunk.js.map": "/static/js/4.b44c80c4.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
@@ -32,13 +32,14 @@
     "fonts/MaterialIcons.ttf": "/./fonts/MaterialIcons.ttf",
     "fonts/SimpleLineIcons.ttf": "/./fonts/SimpleLineIcons.ttf",
     "fonts/SpaceMono-Regular.ttf": "/./fonts/SpaceMono-Regular.ttf",
+    "404.html": "/404.html",
     "favicon-16.png": "/favicon-16.png",
     "favicon-32.png": "/favicon-32.png",
     "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/3.e6f50bc5.chunk.js.LICENSE.txt": "/static/js/3.e6f50bc5.chunk.js.LICENSE.txt",
+    "static/js/3.02616ef6.chunk.js.LICENSE.txt": "/static/js/3.02616ef6.chunk.js.LICENSE.txt",
     "static/media/color-circle.png": "/static/media/color-circle.16251760.png",
     "static/media/hsv_triangle_mask.png": "/static/media/hsv_triangle_mask.851ea126.png",
     "static/media/logo.png": "/static/media/logo.6fa2ed95.png",
@@ -47,7 +48,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.7f7c3de9.js",
-    "static/js/3.e6f50bc5.chunk.js",
-    "static/js/app.245e7844.chunk.js"
+    "static/js/3.02616ef6.chunk.js",
+    "static/js/app.95b5b343.chunk.js"
   ]
 }
