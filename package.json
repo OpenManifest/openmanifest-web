@@ -1,0 +1,16 @@
+{
+  "name": "openmanifest-web",
+  "version": "1.0.0",
+  "description": "Static Web App",
+  "main": "index.js",
+  "repository": "https://github.com/OpenManifest/openmanifest-web.git",
+  "author": "Victor Rudolfsson",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
