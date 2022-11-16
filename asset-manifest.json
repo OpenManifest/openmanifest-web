@@ -2,12 +2,12 @@
   "files": {
     "static/js/0.812506c8.chunk.js": "/static/js/0.812506c8.chunk.js",
     "static/js/0.812506c8.chunk.js.map": "/static/js/0.812506c8.chunk.js.map",
-    "app.js": "/static/js/app.1f128cb1.chunk.js",
-    "app.js.map": "/static/js/app.1f128cb1.chunk.js.map",
+    "app.js": "/static/js/app.1034cf8e.chunk.js",
+    "app.js.map": "/static/js/app.1034cf8e.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.af0785c6.js",
     "runtime~app.js.map": "/static/js/runtime~app.af0785c6.js.map",
-    "static/js/3.0a0aadaf.chunk.js": "/static/js/3.0a0aadaf.chunk.js",
-    "static/js/3.0a0aadaf.chunk.js.map": "/static/js/3.0a0aadaf.chunk.js.map",
+    "static/js/3.59503ddf.chunk.js": "/static/js/3.59503ddf.chunk.js",
+    "static/js/3.59503ddf.chunk.js.map": "/static/js/3.59503ddf.chunk.js.map",
     "static/js/4.237c674a.chunk.js": "/static/js/4.237c674a.chunk.js",
     "static/js/4.237c674a.chunk.js.map": "/static/js/4.237c674a.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
@@ -52,7 +52,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/3.0a0aadaf.chunk.js.LICENSE.txt": "/static/js/3.0a0aadaf.chunk.js.LICENSE.txt",
+    "static/js/3.59503ddf.chunk.js.LICENSE.txt": "/static/js/3.59503ddf.chunk.js.LICENSE.txt",
     "static/media/color-circle.png": "/static/media/color-circle.16251760.png",
     "static/media/hsv_triangle_mask.png": "/static/media/hsv_triangle_mask.851ea126.png",
     "static/media/logo-black.png": "/static/media/logo-black.36bb8461.png",
@@ -65,7 +65,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.af0785c6.js",
-    "static/js/3.0a0aadaf.chunk.js",
-    "static/js/app.1f128cb1.chunk.js"
+    "static/js/3.59503ddf.chunk.js",
+    "static/js/app.1034cf8e.chunk.js"
   ]
 }
