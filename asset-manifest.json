@@ -1,15 +1,15 @@
 {
   "files": {
-    "static/js/0.a1798b0b.chunk.js": "/static/js/0.a1798b0b.chunk.js",
-    "static/js/0.a1798b0b.chunk.js.map": "/static/js/0.a1798b0b.chunk.js.map",
-    "app.js": "/static/js/app.bb79b2ae.chunk.js",
-    "app.js.map": "/static/js/app.bb79b2ae.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.319f2a3a.js",
-    "runtime~app.js.map": "/static/js/runtime~app.319f2a3a.js.map",
-    "static/js/3.a01f5db6.chunk.js": "/static/js/3.a01f5db6.chunk.js",
-    "static/js/3.a01f5db6.chunk.js.map": "/static/js/3.a01f5db6.chunk.js.map",
-    "static/js/4.7a275dbc.chunk.js": "/static/js/4.7a275dbc.chunk.js",
-    "static/js/4.7a275dbc.chunk.js.map": "/static/js/4.7a275dbc.chunk.js.map",
+    "static/js/0.9aa50078.chunk.js": "/static/js/0.9aa50078.chunk.js",
+    "static/js/0.9aa50078.chunk.js.map": "/static/js/0.9aa50078.chunk.js.map",
+    "app.js": "/static/js/app.a0edd1da.chunk.js",
+    "app.js.map": "/static/js/app.a0edd1da.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.02a79b67.js",
+    "runtime~app.js.map": "/static/js/runtime~app.02a79b67.js.map",
+    "static/js/3.a4a10951.chunk.js": "/static/js/3.a4a10951.chunk.js",
+    "static/js/3.a4a10951.chunk.js.map": "/static/js/3.a4a10951.chunk.js.map",
+    "static/js/4.ec29ade0.chunk.js": "/static/js/4.ec29ade0.chunk.js",
+    "static/js/4.ec29ade0.chunk.js.map": "/static/js/4.ec29ade0.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -52,7 +52,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/3.a01f5db6.chunk.js.LICENSE.txt": "/static/js/3.a01f5db6.chunk.js.LICENSE.txt",
+    "static/js/3.a4a10951.chunk.js.LICENSE.txt": "/static/js/3.a4a10951.chunk.js.LICENSE.txt",
     "static/media/color-circle.png": "/static/media/color-circle.16251760.png",
     "static/media/hsv_triangle_mask.png": "/static/media/hsv_triangle_mask.851ea126.png",
     "static/media/logo-black.png": "/static/media/logo-black.36bb8461.png",
@@ -63,8 +63,8 @@
     "static/media/webb-dark.png": "/static/media/webb-dark.cc0e3dfa.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.319f2a3a.js",
-    "static/js/3.a01f5db6.chunk.js",
-    "static/js/app.bb79b2ae.chunk.js"
+    "static/js/runtime~app.02a79b67.js",
+    "static/js/3.a4a10951.chunk.js",
+    "static/js/app.a0edd1da.chunk.js"
   ]
 }
